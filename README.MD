@@ -23,4 +23,6 @@ Since there are thousands of games for the Switch, I can't possibly do this all 
 6. Push the changes to your fork and submit a pull request.
 
 ### Notes:
-Corrections for titles affected by JKSV's string sanitation are welcome. For example, `FINAL FANTASY X-X-2 HD Remaster` will be converted to `FINAL FANTASY XX-2 HD Remaster` because Square-Enix used a unicode hyphen character instead of a standard ASCII hyphen. The goal of this is to standardize JKSV's output to whatever the user would like.
+Corrections for titles affected by JKSV's string sanitation are welcome. For example, `FINAL FANTASY X-X-2 HD Remaster` will be converted to `FINAL FANTASY XX-2 HD Remaster` because Square-Enix used a unicode hyphen character instead of a standard ASCII hyphen. The goal of this is to standardize JKSV's output to whatever the user would like (Application IDs or Easily Readable Titles).
+
+If you would like to change or correct a path already in the master list, explain why you feel your interpretation is better in your pull request. I will consider all recommendations.
